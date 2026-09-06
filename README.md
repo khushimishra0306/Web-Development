@@ -1,6 +1,6 @@
 # YouTube UI Clone 🎥
 
-A simple **YouTube homepage clone** built using only **HTML and CSS**.  
+A simple **YouTube homepage UI clone** built using only **HTML and CSS**.  
 This project was created to practice frontend development fundamentals like layout design, responsive styling, and UI recreation without any JavaScript.
 
 ---
