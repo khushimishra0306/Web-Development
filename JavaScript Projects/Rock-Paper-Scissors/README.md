@@ -18,11 +18,11 @@ Play against the computer and test your luck!
 ## 📂 Project Structure
 rock-paper-scissors/ 
 
-├── RockPaperScissors.html       # Main game page
+    ├── RockPaperScissors.html            # Main game page
 
-├── styles/RockPaperScissors.css       # Styling for the game
+    ├── styles/RockPaperScissors.css            # Styling for the game
 
-└── scripts/RockPaperScissors.js         # Game logic
+    └── scripts/RockPaperScissors.js              # Game logic
 
 
 ## 🕹️ How to Play
@@ -40,9 +40,9 @@ rock-paper-scissors/
 1. Clone the repository:
    ```bash
    git clone https://github.com/khushimishra0306/Web-Development.git
-2.Open RockPaperScissors.html in your browser.
+2. Open RockPaperScissors.html in your browser.
 
-3.Start playing!
+3. Start playing!
 
 ## 📸 Demo Screenshot
 
@@ -50,6 +50,9 @@ rock-paper-scissors/
 
 
 🛠️ Technologies Used
+
 HTML
+
 CSS
+
 JavaScript
