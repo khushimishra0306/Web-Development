@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-  <title>Rock Paper Scissors</title>
+<title>Rock Paper Scissors</title>
 </head>
 <link rel="stylesheet" href="styles/RockPaperScissors.css">
 <body>
@@ -10,26 +10,26 @@
 
   
   <button class="move-button" Onclick="
-  matching('rock');
+  matching('rock');">
+    <img src="images/rock-emoji.png" class="move-icon">
+  </button>
+
+
+
+
+ <button class="move-button"  Onclick=" matching('paper');"> 
+   <img src="images/paper-emoji.png" class="move-icon">
+ </button>
+
+
   
-  "> <img src="images/rock-emoji.png" class="move-icon"></button>
-
-
-
-
- <button class="move-button"  Onclick=" matching('paper');
-  " > <img src="images/paper-emoji.png" class="move-icon"></button>
-
-
-  
-  <button class="move-button"  Onclick=" matching('scissors');
-  "><img src="images/scissors-emoji.png" class="move-icon"></button>
+  <button class="move-button"  Onclick=" matching('scissors');">
+    <img src="images/scissors-emoji.png" class="move-icon">
+  </button>
   
 
   <p class="js-result result"></p>
-  <p class="js-moves">
-
-  </p>
+  <p class="js-moves"></p>
   <p class="js-score scores"></p>
 
   <button class="reset" Onclick=" 
@@ -37,8 +37,9 @@
      score.losses=0;
      score.ties=0;
      localStorage.removeItem('score');
-    updateScore();
-  ">Reset score</button>
+    updateScore();">
+    Reset score
+  </button>
 
  
   
