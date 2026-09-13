@@ -16,9 +16,12 @@ Play against the computer and test your luck!
 ---
 
 ## 📂 Project Structure
-rock-paper-scissors/
+rock-paper-scissors/ 
+
 ├── RockPaperScissors.html       # Main game page
+
 ├── styles/RockPaperScissors.css       # Styling for the game
+
 └── scripts/RockPaperScissors.js         # Game logic
 
 
