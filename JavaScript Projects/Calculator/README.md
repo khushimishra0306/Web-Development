@@ -55,7 +55,7 @@ Use C to clear the input.
 
 📸 Preview
 
-![Calculator Screenshot](Calculator/Calculator.png)
+![Calculator Screenshot](Calculator.png)
 
 
 ---
