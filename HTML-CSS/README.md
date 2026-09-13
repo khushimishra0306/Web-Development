@@ -25,7 +25,7 @@ This project was created to practice frontend development fundamentals like layo
 ---
 
 ## 📸 Preview
-![Screenshot of YouTube Clone](https://github.com/khushimishra0306/Web-Development/blob/main/Screenshot.png?raw=true)
+![Screenshot of YouTube Clone](https://github.com/khushimishra0306/Web-Development/blob/main/HTML-CSS/Screenshot.png?raw=true)
 
 
 ---
